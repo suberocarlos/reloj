@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2? family= Arbutus & family= Audiowide & family= Bad+Script & family= Edu+TAS+Beginner:wght@400;500 & family= Holtwood+One+SC & familia= Josefin+Slab:wght@300 & familia= Kay+Pho+Du:wght@400;700 & familia= Peralta & familia= Roboto+Slab:wght@500;900 & display=swap' );
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arbutus', serif;
+    box-sizing: border-box;
+    font-size: 2rem;
+    border-radius: .9rem;
+}
+
+
+body {
+    background-color:#427D9D;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.clock {
+    color: black;
+    font-size: 60px;
+    letter-spacing: 10px;
+    border: 5px solid;
+    padding: 25px;
+    
+}
